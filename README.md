@@ -9,6 +9,7 @@ I am a 17-year-old AI developer, Full-stack developer, also a UI / UX designer. 
 
 ## What I want to learn more...📚
 - 🎨 The art of programming - Python, C/C++, C#, PHP, Javascript, HTML+CSS
+- 💎 Modern UI / UX designing - just to make them more friendly to users!
 - 🧠 Neuroscience - Cognitive Neuroscience, Computational Neuroscience, Affective Computing, Sentiment Analysis
 - 📁 Data Science - Data Analysis? Bigdata?
 - 💸 Business & Financial - Business Analysis, SET, Cryptocurrency, Project Management, Community Relationships
