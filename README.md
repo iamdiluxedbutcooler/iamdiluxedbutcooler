@@ -15,6 +15,7 @@ I am a 17-year-old AI developer, Full-stack developer, also a UI / UX designer. 
 - 💸 Business & Financial - Business Analysis, SET, Cryptocurrency, Project Management, Community Relationships
 - 📻 Music! - Piano, Guitar, Banjo, Drums, and more!
 
+
 <!---
 iamdiluxedbutcooler/iamdiluxedbutcooler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
