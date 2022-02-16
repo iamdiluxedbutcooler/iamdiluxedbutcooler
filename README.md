@@ -1,7 +1,7 @@
 # Hej! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> It's Pleng here!
 I am a 17-year-old AI developer, Full-stack developer, also a UI / UX designer. I'm interested in making AI more friendly for everyone, both in communication and usage. I believe that AI can be a superb companion to humans and their lives because it has many abilities that can help humans overcome many limitations and help improve the quality of life!
 - 👋 Hi, I’m @iamdiluxedbutcooler / diluxed (my old account was banned for no reason - -)
-- 👀 I’m a big fan of Star Wars, Marvel Comics, MCU, Dune, Harry Potter, and a lot of more
+- 👀 I’m a big fan of Star Wars (especially The Mandalorian), Marvel Comics, MCU, Dune, Harry Potter, and a lot of more
 - 🍑 Timothée Chalamet's stan!
 - 💜 I have a big crush on the Korean Boy Band 'BTS'
 - 📫 How to reach me ... well I dunno yet
